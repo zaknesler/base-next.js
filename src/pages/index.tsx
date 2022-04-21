@@ -9,7 +9,7 @@ export default function Index() {
       </Head>
 
       <main className="p-12">
-        <h1 className="text-xl font-bold">Hello, Next.js!</h1>
+        <h1 className="text-xl font-bold">Hello, Next.js + TypeScript.</h1>
 
         <div className="max-w-lg pt-3 text-lg leading-relaxed text-gray-600">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut quas
