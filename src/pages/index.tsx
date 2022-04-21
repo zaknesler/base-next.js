@@ -2,7 +2,7 @@ import Head from 'next/head'
 
 export default function Index() {
   return (
-    <div>
+    <>
       <Head>
         <title>Next.js</title>
         <link rel="icon" href="/favicon.ico" />
@@ -18,6 +18,6 @@ export default function Index() {
           blanditiis cum quae natus.
         </div>
       </main>
-    </div>
+    </>
   )
 }
