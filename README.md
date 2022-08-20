@@ -1,6 +1,6 @@
 ## Next.js + TS + Tailwind + SWR
 
-This is a basic, opinionated, project template for Next.js with TypeScript, ESLint Prettier, Tailwind CSS, and SWR pre-configured.
+This is a basic, opinionated, project template for Next.js with TypeScript, ESLint, Prettier, Tailwind CSS, and SWR pre-configured.
 
 ### Usage
 
